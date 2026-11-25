@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="jarvisBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <linearGradient id="jarvisRing" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#jarvisBg)"/>
+  <circle cx="64" cy="64" r="38" fill="none" stroke="url(#jarvisRing)" stroke-width="5" stroke-dasharray="18 8"/>
+  <circle cx="64" cy="64" r="24" fill="none" stroke="#38bdf8" stroke-width="3" opacity="0.8"/>
+  <circle cx="64" cy="64" r="12" fill="#22d3ee"/>
+  <path d="M64 18v12M64 98v12M18 64h12M98 64h12" stroke="#38bdf8" stroke-width="4" stroke-linecap="round"/>
+</svg>
