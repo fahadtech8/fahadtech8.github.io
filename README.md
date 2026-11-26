@@ -27,7 +27,7 @@
 | Application | Version | Size | Category | App Page | Direct Download |
 | :--- | :---: | :---: | :--- | :---: | :---: |
 | **Fahad AI (Jarvis)** | `v1.8.7` | **102 MB** | AI & Voice Security | [📖 Explore](https://fahadtech8.github.io/jarvis.html) | [⬇️ APK](https://github.com/fahadtech8/fahadtech8/releases/download/v1.0.0/Jarvis-FahadAI.apk) |
-| **FD YouTube Pro** | `v64` | **142 MB** | Video & Audio | [📖 Explore](https://fahadtech8.github.io/youtube.html) | [⬇️ APK](https://fahadtech8.github.io/download-youtube.html) |
+| **FD YouTube Pro** | `v64` | **156 MB** | Video & Audio | [📖 Explore](https://fahadtech8.github.io/youtube.html) | [⬇️ APK](https://fahadtech8.github.io/download-youtube.html) |
 | **FD InstaPro** | `v15.80` | **179 MB** | Social & Privacy | [📖 Explore](https://fahadtech8.github.io/instapro.html) | [⬇️ APK](https://fahadtech8.github.io/download-instapro.html) |
 | **Truecaller FD Gold** | `v26.21.6` | **125 MB** | Calls & Caller ID | [📖 Explore](https://fahadtech8.github.io/truecaller.html) | [⬇️ APK](https://fahadtech8.github.io/download-truecaller.html) |
 | **Cinema VIP** | `v3.2.0` | **38 MB** | Movies & Streaming | [📖 Explore](https://fahadtech8.github.io/cinema.html) | [⬇️ APK](https://fahadtech8.github.io/download-cinema.html) |
@@ -48,14 +48,14 @@
 
 ---
 
-### ▶️ 2. FD YouTube Pro — `v64` (`142 MB`)
+### ▶️ 2. FD YouTube Pro — `v64` (`156 MB`)
 > *High-performance, distraction-free video & music streaming experience built for everyday Android power users.*
 
 * 🚫 **100% Ad-Free Playback**: Eliminates pre-roll, mid-roll, banner, and homepage sponsored ads.
 * 🎧 **Background Audio Mode**: Continue listening with your screen off or while using other apps.
 * 🪟 **Floating PiP Window**: Watch videos in a resizable Picture-in-Picture overlay while multitasking.
 * ⚡ **4K 60fps HDR & SponsorBlock**: Ultra-crisp playback with automatic sponsor segment skipping and Return YouTube Dislike support.
-* 🔑 *Requires `microG Service` installed for Google account sign-in.*
+* 🔑 *Runs standalone without root or microG. Optional `microG Companion` only needed for Google account sign-in.*
 * 👉 [**Open App Page**](https://fahadtech8.github.io/youtube.html) • [**Download Page**](https://fahadtech8.github.io/download-youtube.html)
 
 ---
